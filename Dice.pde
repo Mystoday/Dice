@@ -51,7 +51,6 @@ else if (f==6){
   point(myX+40,myY+40);
 }
 fill(255,255,255);
-println(s);
 text(s,300,500);
 }
 void show(){
